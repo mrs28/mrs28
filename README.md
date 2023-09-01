@@ -4,18 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi!+👋+My+name+is+Myriam+Rivera+😊" />
 </h1>
 
-<h3 align="center"> 😀💻 I´m a Frontend Developer focus on user experiences
-  <br/> using React.js, as my main tool for development. </h3>
+<h3 align="center"> 😀💻 I´m a Frontend Developer focus on user experiences and <br/> 
+   graphics details, using React.js as my main tool for development. </h3>
 <br/>
-<div align="center"> 
 <br/>
-   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <div align="center"> 
+   <a href="https://www.linkedin.com/in/myriam-rivera-front-end/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="santm1998@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-   <a href="https://salesp07.github.io" target="_blank">
+   <a href="https://github.com/MyriamLab" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
  <br/>
