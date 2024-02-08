@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center"> 😀💻 I´m a Frontend Developer focus on user experiences and <br/> 
-   graphics details, using React.js as my main tool for development. I'm currently learning Next.js
+   graphics details, using React.js as my main tool for development. <br/> I'm currently learning Next.js
 </h3>
 <br/>
 <br/>
