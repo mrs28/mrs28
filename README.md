@@ -5,7 +5,8 @@
 </h1>
 
 <h3 align="center"> 😀💻 I´m a Frontend Developer focus on user experiences and <br/> 
-   graphics details, using React.js as my main tool for development. </h3>
+   graphics details, using React.js as my main tool for development. I'm currently learning Next.js
+</h3>
 <br/>
 <br/>
     <div align="center"> 
@@ -26,7 +27,7 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,javascript,typescript,react,nodejs,firebase,mysql, postman" /><br>
+    <img src="https://skillicons.dev/icons?i=html,javascript,typescript,react,nextjs,nodejs,firebase,mysql, postman" /><br>
     <img src="https://skillicons.dev/icons?i=css,sass,mui,styledcomponents" />
   <br/>
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,selenium,jest" />
