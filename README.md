@@ -32,20 +32,38 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <br/>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<br/>
+
+### Frontend Development
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,javascript,typescript,react,nextjs,nodejs,mysql, postman" /><br>
-    <img src="https://skillicons.dev/icons?i=css,sass,mui,styledcomponents" />
-  <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,selenium,jest" />
-   <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
 </div>
-<br/>
-<br/>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-<br/>
+
+### CSS & Design Methodologies
+<div align="center">
+    <img src="https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Atomic_Design-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" />
+    <img src="https://img.shields.io/badge/Intrinsic_Web_Design-4ECDC4?style=for-the-badge&logo=web&logoColor=white" />
+    <img src="https://img.shields.io/badge/Accessibility-0066CC?style=for-the-badge&logo=accessibility&logoColor=white" />
+</div>
+
+### Backend & Database
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</div>
+
+### Tools & Deployment
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman,jest,netlify,vercel" />
+</div>
 <!--
 **mrs28/mrs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
