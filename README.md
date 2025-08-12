@@ -42,43 +42,9 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
     <br/>
     <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
 </div>
-### CSS & Design Methodologies
-<div align="center">
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#1572B6;color:white;font-weight:bold;">
-    CSS Grid
-  </span>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#1572B6;color:white;font-weight:bold;">
-    Flexbox
-  </span>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#000000;color:white;font-weight:bold;">
-    CSS Modules
-  </span>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#DB7093;color:white;font-weight:bold;">
-    Styled Components
-  </span>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#FF6B6B;color:white;font-weight:bold;">
-    Atomic Design
-  </span>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#4ECDC4;color:white;font-weight:bold;">
-    Intrinsic Web Design
-  </span>
-  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
-               background-color:#0066CC;color:white;font-weight:bold;">
-    Accessibility
-  </span>
+
 </div>
 
-
-### Backend & Database
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-</div>
 
 ### Tools & Deployment
 <div align="center">
