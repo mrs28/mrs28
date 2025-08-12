@@ -8,13 +8,7 @@
 
 I'm passionate about creating **exceptional user experiences** through thoughtful design and clean, efficient code. My focus lies in the intersection of development and design, where technical skills meet creative vision.
 
-### 🚀 What I do:
-- ⚛️ **Frontend Development** with React.js & Next.js
-- 🎨 **Intrinsic Web Design** implementation
-- 📱 **UI/UX Development** 
-- ✨ **Performance Optimization** for better user experiences
----
-### <h3>CSS & Design Methodologies</h3>
+### <h3>🎨 CSS & Design Methodologies</h3>
 <ul>
   <li>CSS Grid</li>
   <li>Flexbox</li>
@@ -22,7 +16,7 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
   <li>Styled Components</li>
   <li>Atomic Design</li>
   <li>Intrinsic Web Design</li>
-  <li>Accessibility (WCAG)</li>
+  <li>Accessibility</li>
 </ul>
 
 <br/>
