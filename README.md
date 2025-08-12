@@ -30,12 +30,11 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
 </div>
 
  <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <br/>
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<br/>
+
 
 ### Frontend Development
 <div align="center">
@@ -43,27 +42,31 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
     <br/>
     <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
 </div>
-<!-- Cada badge es una imagen embebida en data URI, sin enlaces -->
-<div align="center">
-  <img alt="CSS Grid" height="28"
-       src='data:image/svg+xml;utf8,
-<svg xmlns="http://www.w3.org/2000/svg" height="28">
-  <rect rx="8" ry="8" width="150" height="28" fill="%231572B6"/>
-  <text x="12" y="19" fill="white" font-family="Arial" font-size="14" font-weight="600">CSS Grid</text>
-</svg>' />
-  <img alt="Flexbox" height="28"
-       src='data:image/svg+xml;utf8,
-<svg xmlns="http://www.w3.org/2000/svg" height="28">
-  <rect rx="8" ry="8" width="120" height="28" fill="%231572B6"/>
-  <text x="12" y="19" fill="white" font-family="Arial" font-size="14" font-weight="600">Flexbox</text>
-</svg>' />
-  <img alt="CSS Modules" height="28"
-       src='data:image/svg+xml;utf8,
-<svg xmlns="http://www.w3.org/2000/svg" height="28">
-  <rect rx="8" ry="8" width="160" height="28" fill="%23000"/>
-  <text x="12" y="19" fill="white" font-family="Arial" font-size="14" font-weight="600">CSS Modules</text>
-</svg>' />
+<!-- Pega esto en una página HTML normal -->
+<div class="badges">
+  <span class="badge blue">CSS Grid</span>
+  <span class="badge blue">Flexbox</span>
+  <span class="badge black">CSS Modules</span>
+  <span class="badge pink">Styled Components</span>
+  <span class="badge coral">Atomic Design</span>
+  <span class="badge teal">Intrinsic Web Design</span>
+  <span class="badge azure">Accessibility</span>
 </div>
+
+<style>
+.badges { text-align:center; }
+.badge{
+  display:inline-block; margin:6px; padding:6px 12px;
+  border-radius:8px; font:600 14px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  color:#fff; user-select:none;
+}
+.blue{ background:#1572B6; }
+.black{ background:#000; }
+.pink{ background:#DB7093; }
+.coral{ background:#FF6B6B; }
+.teal{ background:#4ECDC4; }
+.azure{ background:#0066CC; }
+</style>
 
 
    
