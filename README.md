@@ -3,10 +3,21 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi!+👋+My+name+is+Myriam+Rivera+😊" />
 </h1>
+## Frontend Developer specializing in React.js & Next.js
 
-<h3 align="center"> 😀💻 I´m a Frontend Developer focus on user experiences and <br/> 
-   graphics details, using React.js as my main tool for development. <br/> I'm currently learning Next.js
-</h3>
+I'm passionate about creating **exceptional user experiences** through thoughtful design and clean, efficient code. My focus lies in the intersection of development and design, where technical skills meet creative vision.
+
+### 🛠️ What I do:
+- ⚛️ **Frontend Development** with React.js & Next.js
+- 🎨 **Intrinsic Web Design** implementation
+- 📱 **UI/UX Development** with attention to micro-interactions
+- ✨ **Performance Optimization** for better user experiences
+
+### 💭 My Philosophy:
+*"Great interfaces are invisible - users should focus on their goals, not figuring out how to use your product."*
+
+---
+📫 Let's connect and build something amazing together!
 <br/>
 <br/>
     <div align="center"> 
@@ -27,7 +38,7 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,javascript,typescript,react,nextjs,nodejs,firebase,mysql, postman" /><br>
+    <img src="https://skillicons.dev/icons?i=html,javascript,typescript,react,nextjs,nodejs,mysql, postman" /><br>
     <img src="https://skillicons.dev/icons?i=css,sass,mui,styledcomponents" />
   <br/>
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,selenium,jest" />
