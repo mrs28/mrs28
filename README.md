@@ -17,20 +17,18 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
 📫 Let's connect and build something amazing together!
 <br/>
 <br/>
-
-    <div align="center"> 
- <a href="https://www.linkedin.com/in/myriam-rivera-front-end/?locale=en_US" target="_blank"> -->
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/myriam-rivera-front-end/?locale=en_US" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="./" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="./" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-    <a href="https://github.com/MyriamLab" target="_blank">
-  <img src="https://img.shields.io/badge/Laboratoria-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-</a>
-
- <br/>
+  <a href="https://github.com/MyriamLab" target="_blank">
+    <img src="https://img.shields.io/badge/Laboratoria-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
