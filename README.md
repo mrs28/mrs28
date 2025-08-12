@@ -49,10 +49,27 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
     <img src="https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <br/>
     <img src="https://img.shields.io/badge/Atomic_Design-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" />
     <img src="https://img.shields.io/badge/Intrinsic_Web_Design-4ECDC4?style=for-the-badge&logo=web&logoColor=white" />
     <img src="https://img.shields.io/badge/Accessibility-0066CC?style=for-the-badge&logo=accessibility&logoColor=white" />
+    <style>
+.tech-icons img {
+    pointer-events: none;
+    cursor: default;
+}
+.tech-icons img:hover {
+    transform: none;
+    filter: none;
+}
+</style>
+
+<div align="center" class="tech-icons">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
+</div>
 </div>
 
 ### Backend & Database
