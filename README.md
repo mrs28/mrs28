@@ -1,21 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrs28.mrs28" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi!+👋+My+name+is+Myriam+Rivera+😊" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi!+👋+My+name+is+Myriam+😊" />
 </h1>
+
 ## Frontend Developer specializing in React.js & Next.js
 
 I'm passionate about creating **exceptional user experiences** through thoughtful design and clean, efficient code. My focus lies in the intersection of development and design, where technical skills meet creative vision.
 
-### 🛠️ What I do:
+### 🚀 What I do:
 - ⚛️ **Frontend Development** with React.js & Next.js
 - 🎨 **Intrinsic Web Design** implementation
-- 📱 **UI/UX Development** with attention to micro-interactions
+- 📱 **UI/UX Development** 
 - ✨ **Performance Optimization** for better user experiences
-
-### 💭 My Philosophy:
-*"Great interfaces are invisible - users should focus on their goals, not figuring out how to use your product."*
-
 ---
 📫 Let's connect and build something amazing together!
 <br/>
