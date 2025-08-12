@@ -43,32 +43,28 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
     <br/>
     <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
 </div>
+<!-- Cada badge es una imagen embebida en data URI, sin enlaces -->
+<div align="center">
+  <img alt="CSS Grid" height="28"
+       src='data:image/svg+xml;utf8,
+<svg xmlns="http://www.w3.org/2000/svg" height="28">
+  <rect rx="8" ry="8" width="150" height="28" fill="%231572B6"/>
+  <text x="12" y="19" fill="white" font-family="Arial" font-size="14" font-weight="600">CSS Grid</text>
+</svg>' />
+  <img alt="Flexbox" height="28"
+       src='data:image/svg+xml;utf8,
+<svg xmlns="http://www.w3.org/2000/svg" height="28">
+  <rect rx="8" ry="8" width="120" height="28" fill="%231572B6"/>
+  <text x="12" y="19" fill="white" font-family="Arial" font-size="14" font-weight="600">Flexbox</text>
+</svg>' />
+  <img alt="CSS Modules" height="28"
+       src='data:image/svg+xml;utf8,
+<svg xmlns="http://www.w3.org/2000/svg" height="28">
+  <rect rx="8" ry="8" width="160" height="28" fill="%23000"/>
+  <text x="12" y="19" fill="white" font-family="Arial" font-size="14" font-weight="600">CSS Modules</text>
+</svg>' />
+</div>
 
-### CSS & Design Methodologies
-<div align="center">
-    <img src="https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <br/>
-    <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" style="pointer-events: none;" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" style="pointer-events: none;" />
-</div>
-    <img src="https://img.shields.io/badge/Atomic_Design-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" />
-    <img src="https://img.shields.io/badge/Intrinsic_Web_Design-4ECDC4?style=for-the-badge&logo=web&logoColor=white" />
-    <img src="https://img.shields.io/badge/Accessibility-0066CC?style=for-the-badge&logo=accessibility&logoColor=white" />
-### CSS & Design Methodologies
-<div align="center">
-    <img src="https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <img src="https://img.shields.io/badge/Atomic_Design-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" />
-    <img src="https://img.shields.io/badge/Intrinsic_Web_Design-4ECDC4?style=for-the-badge&logo=web&logoColor=white" />
-    <img src="https://img.shields.io/badge/Accessibility-0066CC?style=for-the-badge&logo=accessibility&logoColor=white" />
-</div>
 
    
 </div>
