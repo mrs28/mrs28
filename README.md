@@ -14,7 +14,17 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
 - 📱 **UI/UX Development** 
 - ✨ **Performance Optimization** for better user experiences
 ---
-📫 Let's connect and build something amazing together!
+### <h3>CSS & Design Methodologies</h3>
+<ul>
+  <li>CSS Grid</li>
+  <li>Flexbox</li>
+  <li>CSS Modules</li>
+  <li>Styled Components</li>
+  <li>Atomic Design</li>
+  <li>Intrinsic Web Design</li>
+  <li>Accessibility (WCAG)</li>
+</ul>
+
 <br/>
 <br/>
 <div align="center">
