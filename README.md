@@ -42,49 +42,38 @@ I'm passionate about creating **exceptional user experiences** through thoughtfu
     <br/>
     <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
 </div>
-<!-- Pega esto en una página HTML normal -->
-<div class="badges">
-  <span class="badge blue">CSS Grid</span>
-  <span class="badge blue">Flexbox</span>
-  <span class="badge black">CSS Modules</span>
-  <span class="badge pink">Styled Components</span>
-  <span class="badge coral">Atomic Design</span>
-  <span class="badge teal">Intrinsic Web Design</span>
-  <span class="badge azure">Accessibility</span>
+### CSS & Design Methodologies
+<div align="center">
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#1572B6;color:white;font-weight:bold;">
+    CSS Grid
+  </span>
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#1572B6;color:white;font-weight:bold;">
+    Flexbox
+  </span>
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#000000;color:white;font-weight:bold;">
+    CSS Modules
+  </span>
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#DB7093;color:white;font-weight:bold;">
+    Styled Components
+  </span>
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#FF6B6B;color:white;font-weight:bold;">
+    Atomic Design
+  </span>
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#4ECDC4;color:white;font-weight:bold;">
+    Intrinsic Web Design
+  </span>
+  <span style="display:inline-block;padding:6px 12px;margin:4px;border-radius:6px;
+               background-color:#0066CC;color:white;font-weight:bold;">
+    Accessibility
+  </span>
 </div>
 
-<style>
-.badges { text-align:center; }
-.badge{
-  display:inline-block; margin:6px; padding:6px 12px;
-  border-radius:8px; font:600 14px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;
-  color:#fff; user-select:none;
-}
-.blue{ background:#1572B6; }
-.black{ background:#000; }
-.pink{ background:#DB7093; }
-.coral{ background:#FF6B6B; }
-.teal{ background:#4ECDC4; }
-.azure{ background:#0066CC; }
-</style>
-
-
-   
-</div>
-
-
-<div align="center" class="tech-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
-</div>
-
-<div align="center" class="tech-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
-</div>
-</div>
 
 ### Backend & Database
 <div align="center">
