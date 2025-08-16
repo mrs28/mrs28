@@ -11,16 +11,6 @@ I'm passionate about creating meaningful user experiences by combining human-cen
 ### <h3>🎨 CSS & Design Methodologies</h3>
 CSS Grid · Flexbox · CSS Modules · Styled Components · Atomic Design · Intrinsic Web Design · Accessibility
 
-<ul>
-  <li>CSS Grid</li>
-  <li>Flexbox</li>
-  <li>CSS Modules</li>
-  <li>Styled Components</li>
-  <li>Atomic Design</li>
-  <li>Intrinsic Web Design</li>
-  <li>Accessibility</li>
-</ul>
-
 <br/>
 <br/>
 <div align="center">
