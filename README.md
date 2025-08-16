@@ -34,7 +34,7 @@ CSS Grid · Flexbox · CSS Modules · Styled Components · Atomic Design · Intr
 
 ### Frontend Development
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,mysql" />
     <br/>
     <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
 </div>
