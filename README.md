@@ -6,9 +6,11 @@
 
 ## Frontend Developer specializing in React.js & Next.js
 
-I'm passionate about creating meaningful user experiences by combining human-centered design principles with clean, efficient code. I focus on frontend development with React.js, applying UX and behavioral design to improve usability and engagement, with an emphasis on connecting products to business objectives.
+I'm passionate about creating meaningful user experiences by combining human-centered design principles with clean, efficient code. I focus on frontend development with React.js, applying UX and Behavioral Design to improve usability and engagement, with an emphasis on connecting products to business objectives.
 
 ### <h3>🎨 CSS & Design Methodologies</h3>
+CSS Grid · Flexbox · CSS Modules · Styled Components · Atomic Design · Intrinsic Web Design · Accessibility
+
 <ul>
   <li>CSS Grid</li>
   <li>Flexbox</li>
