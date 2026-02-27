@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrs28.mrs28" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+there!+👋;My+name+is+Myriam+Rivera+😊" />
 </h1>
