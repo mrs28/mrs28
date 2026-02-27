@@ -4,12 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi!+👋+My+name+is+Myriam+😊" />
 </h1>
 
-## Frontend Developer specializing in React.js & Next.js
+## Frontend Developer with a Product Mindset
 
-I'm passionate about creating meaningful user experiences by combining human-centered design principles with clean, efficient code. I focus on frontend development with React.js, applying UX and Behavioral Design to improve usability and engagement, with an emphasis on connecting products to business objectives.
-
-### <h3>🎨 CSS & Design Methodologies</h3>
-CSS Grid · Flexbox · CSS Modules · Styled Components · Atomic Design · Intrinsic Web Design · Accessibility
+I build experiences that improve engagement and retention by combining React/Next.js with behavioral research.
 
 <br/>
 <br/>
@@ -27,26 +24,6 @@ CSS Grid · Flexbox · CSS Modules · Styled Components · Atomic Design · Intr
 
  <hr/>
 
-<br/>
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<br/>
-
-
-### Frontend Development
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,mysql" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=sass,mui,styledcomponents" />
-</div>
-
-</div>
-
-
-### Tools & Deployment
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman,jest,netlify,vercel" />
-</div>
-<!--
 **mrs28/mrs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
