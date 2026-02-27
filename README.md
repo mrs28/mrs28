@@ -6,7 +6,8 @@
 
 ## Frontend Developer with a Product Mindset
 
-I build experiences that improve engagement and retention by combining React/Next.js with behavioral research.
+I'm a Frontend Developer with a product mindset. I'm passionate about combining code with Behavioral Science.
+
 
 <br/>
 <br/>
