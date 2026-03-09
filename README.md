@@ -16,6 +16,9 @@ I'm a Frontend Developer with a product mindset. I'm passionate about combining 
   <a href="https://github.com/MyriamLab" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Laboratoria-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+    <a href="https://devpost.com/mrs28?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
