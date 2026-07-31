@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+there!+👋;My+name+is+Myriam+Rivera+😊" />
 </h1>
 
-I'm a Frontend Developer with a product mindset. I'm passionate about combining code with Behavioral Science and Research to create meaningful products.
+I'm a Behavioral Researcher and Frontend Developer with a product mindset. I enjoy combining Behavioral Design, human-Centered Design, and technology to design meaningful products and services across physical and digital experiences.
 
 <br/>
 <br/>
