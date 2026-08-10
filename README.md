@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+there!+👋;My+name+is+Myriam+Rivera+😊" />
 </h1>
 
-I'm a Behavioral Researcher and Frontend Developer with a product mindset. I enjoy combining Behavioral Design, Human-Centered Design, and technology to design meaningful products and services across physical and digital experiences.
+Service Designer and Frontend Developer with a behavioral research background. I combine Behavioral Design, Human-Centered Design, and technology to build products and services that work across physical and digital touchpoints.
 
 <br/>
 <br/>
